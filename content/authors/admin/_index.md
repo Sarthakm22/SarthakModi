@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sarthak Ketanbhai Modi
+title: Sarthak Modi
 
 # Name pronunciation (optional)
 name_pronunciation: ''
