@@ -11,7 +11,7 @@ last_name: Modi
 
 # Status emoji
 status:
-  icon: ☕️👨‍💻📚🏋️‍♂️♾️
+  icon: 👨‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,7 +45,5 @@ profiles:
     url: uploads/resume.pdf
     label: Download my resume
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I am Sarthak. I am an incoming masters (by research) in mathematical sciences student at NTU under Professor Thomas Peyrin. 
+My research interests include Efficient ML, Adversarial Training, and Privacy-Preserving ML. I work as a Research Intern at Continental-NTU corporate lab under the AI for Software Engineering project. 
