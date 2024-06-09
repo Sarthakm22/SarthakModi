@@ -48,7 +48,7 @@ profiles:
 #### Hi, I am Sarthak. I am an incoming masters (by research) in mathematical sciences student at NTU under Professor Thomas Peyrin. My research interests include Efficient ML, Adversarial Training, and Privacy-Preserving ML. I work as a Research Intern at Continental-NTU corporate lab under the AI for Software Engineering project
 <br>
 
-## Selected Publications
+## Publications and Patents
 #### **SOSAE: Self-Organizing Sparse Autoencoder**
 - **Authors:** <u>Sarthak Ketanbhai Modi</u>, Zi Pong Lim, Yushi Cao, Yupeng Cheng, Yon Shin Teo, Lin Shang-Wei 
 - **Venue:** 33rd International Joint Conference on Artificial Intelligence (IJCAI) - DSO Workshop, 2024
@@ -56,10 +56,15 @@ profiles:
 
 #### **Towards a More Robust and Accurate OCR Model with Adversarial Techniques in HMI Testing Scenarios**
 - **Authors:**  Yupeng Cheng, Zi Pong Lim, <u>Sarthak Ketanbhai Modi</u>, Yushi Cao, Yon Shin Teo, Lin Shang-Wei 
-- **Venue:** IEEE Conference on Artificial Intelligence 2024
+- **Venue:** 2024 IEEE Conference on Artificial Intelligence, Singapore
 <!-- - **Resources:** [Project Page](#) / [arXiv](#)) -->
 
 #### **Is Bio-Inspired Learning Better than Backprop? Benchmarking Bio Learning vs. Backprop**
 - **Authors:** Manas Gupta, <u>Sarthak Ketanbhai Modi</u>, Hang Zhang, Joon Hei Lee, Joo Hwee Lim
 - **Venue:** Technical Report arXiv:2212.04614, December 2022
 - **Resources:** [arXiv](https://arxiv.org/abs/2212.04614)
+
+#### **Enhance the specificity of model with Inverse Adversarial Training**
+- **Inventors:** Yupeng Cheng, <u>Sarthak Ketanbhai Modi<sup>†</sup></u>, Zi Pong Lim<sup>†</sup>, Yushi Cao<sup>†</sup>, Yon Shin Teo<sup>†</sup>, Lin Shang-Wei
+- **Status:** Patent Pending <br>
+<small> <sup>†</sup> - Equal Contribution</small><br>
